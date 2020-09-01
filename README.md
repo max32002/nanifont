@@ -2,11 +2,13 @@
 
 ![何某手寫體](https://github.com/max32002/nanifont/raw/master/preview/welcome.png)
 
+目前補字中，進度大約50%，預期還要好幾天才會補完，現在是搶鮮版本。
+
 ## 字體特色
 
 ### 彌補繁體中文常用字缺字缺憾
 
-部份口語的中文字缺字，Max補上了這些中文字，例如：喵嗝屌粿璀摳摀憨尪孬。
+部份口語的中文字缺字，Max補上了這些中文字，例如：喵嗝屌粿璀摳摀憨尪孬憋。
 
 附註： 由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。有一些字補的「超級醜」的，如果有好心人有重做那些醜到爆的字，請再分享給我，感謝。
 
@@ -79,6 +81,10 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾牙膏圓體 Swei Toothpaste
+https://max-everyday.com/2020/09/swei-toothpaste/
+* 獅尾三角黑體 Swei 3T Sans
+https://max-everyday.com/2020/08/swei-3t-sans/
 * 獅尾螺帽腿黑體 Swei Nut Leg
 https://max-everyday.com/2020/08/swei-nut-leg/
 * 獅尾螺帽黑體 Swei Nut Sans
@@ -90,7 +96,7 @@ https://max-everyday.com/2020/07/swei-b2-sans/
 * 獅尾腿圓 Swei Gothic Leg
 https://max-everyday.com/2020/08/swei-gothic-leg/
 * 獅尾彩虹腿 Swei Rainbow Leg
-https://max-everyday.com/2020/08/swei-rainbow-leg/
+https://max-everyday.com/2020/08/swei-toothpaste/
 * 獅尾XD珍珠 Swei XD Pearl
 https://max-everyday.com/2020/07/swei-xd-pearl/
 * 獅尾D露西 Swei D Lucy
@@ -102,7 +108,7 @@ https://max-everyday.com/2020/06/taiwanpearl/
 * 獅尾圓體 Swei Gothic
 https://max-everyday.com/2020/04/swei-gothic/
 * 獅尾黑體 Swei Sans
-https://max-everyday.com/2020/03/swei-sans/
+https://max-everyday.com/2020/03/swei-toothpaste/
 
 獅尾宋體家族：
 * 獅尾B2宋朝 Swei B2 Serif
@@ -113,8 +119,6 @@ https://max-everyday.com/2020/06/swei-meatball/
 https://max-everyday.com/2020/04/swei-spring/
 
 其他字體：
-* 何某手寫體  Nani Font
-https://max-everyday.com/2020/08/nanifont/
 * 內海字體  Naikai Font
 https://max-everyday.com/2020/03/naikaifont/
 * 莫大毛筆字體 Bakudai Font
