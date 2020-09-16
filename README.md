@@ -16,10 +16,11 @@
 部份口語的中文字缺字，Max補上了這些中文字，例如：喵嗝屌粿璀摳摀憨尪孬憋。
 完整的補字清單，請參考[更新記錄](https://github.com/max32002/nanifont/blob/master/change_log.md)。
 
-附註1：由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。
-附註2：Max修改的版本，大約有 1/10 的補出來的字是長的很醜的，不過聊勝於無。
+* 附註1：由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。
+* 附註2：Max修改的版本，大約有 1/10 的補出來的字是長的很醜的，不過聊勝於無。
 
 ### 5種字重(Style)
+![5種字重](https://github.com/max32002/nanifont/raw/master/preview/compare_styles.png)
 
 * Light
 * DemiLight
