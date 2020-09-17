@@ -5,8 +5,8 @@
 何某手寫體，目前版本 ver 1.010，與原作者的差異：
 * 從原作者的 2020-07-11 Ver3.02 (RC) 複製出來修改。
 * Max修改前，符號＋文字數：8,784個。
-* Max修改後，符號＋文字數：19，205個。
-* Max中文補字：6,142個。完整的補字清單，請參考[更新記錄](https://github.com/max32002/nanifont/blob/master/change_log.md)。
+* Max修改後，符號＋文字數：23,739個。
+* Max中文補字：10,676個。完整的補字清單，請參考[更新記錄](https://github.com/max32002/nanifont/blob/master/change_log.md)。
 
 
 ## 字體特色
