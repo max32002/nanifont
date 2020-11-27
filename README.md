@@ -83,18 +83,9 @@ WebFont可以服用下面的css:
     * 可自由商用 不需付費、知會或標明作者，即可自由使用此字型，亦可做商業應用。
     * 可自由傳布 可自由分享檔案、將檔案安裝於任何軟硬體中。
     * 可自由改作為其他字型 將字型檔案修改重製為其他字型檔案，改作後的字型檔案須同樣依 Open Font License 釋出。
+
+字體授權小提示：本字型採用 SIL Open Font License 1.1 授權發表，可以免費商用。在 github 上有附上 SIL Open Font License 1.1 的授權文件，如甲方或公司需要出示授權文件，直接使用此文件即可。
     
-
-## 字體的應用範例
-
-* 汪喵星球 https://www.facebook.com/dogcatstar/posts/3294367807291857
-
-## 相關影片
-
-* 何某手寫補字：紨 https://youtu.be/WEQ9cLqIGTs
-
-字型編輯工具FontForge執行檔下載：https://fontforge.org/en-US/
-
 ## 相關網頁
 
 花園家族：
