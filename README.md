@@ -3,11 +3,11 @@
 ![何某手寫體](https://github.com/max32002/nanifont/raw/master/preview/welcome.png)
 
 何某手寫體，目前版本 ver 1.010，與原作者的差異：
-* 從原作者的 2020-07-11 Ver3.02 (RC) 複製出來修改。
+* 從原作者的 2020-11-21 Ver3.10 (RC) 複製出來修改。
 * Max修改前，符號＋文字數：8,784個。
 * Max修改後，符號＋文字數：23,739個。
 * Max中文補字：10,676個。完整的補字清單，請參考[更新記錄](https://github.com/max32002/nanifont/blob/master/change_log.md)。
-
+* 與原作者重覆造字，考慮文字部件在地區用法不同，所以沒有使用原作者字有：凊婧楂癤祅祜祹稹腧薌迁迨迮逈逭靚饘鱁
 
 ## 字體特色
 
@@ -64,8 +64,8 @@ WebFont可以服用下面的css:
 ```
 @font-face {
   font-family: nanifont;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.020/webfont/NaniFont-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.020/webfont/NaniFont-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.030/webfont/NaniFont-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.030/webfont/NaniFont-Regular.woff) format("woff");
 }
 ```
 附註：Regular換成其他的值，可以調整粗細。
