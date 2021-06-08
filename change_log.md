@@ -1,3 +1,7 @@
+# 2021/06/07 ver 1.033
+* 調整「囱」部件為台標的「囪」,更新清單：窗聰總蔥傯璁
+![1.033](https://github.com/max32002/nanifont/raw/master/preview/change-1.033.png)
+
 # 2021/06/07 ver 1.030
 * 合併原作者的 2020-11-21 Ver3.10 (RC) 
 

@@ -2,7 +2,7 @@
 
 ![何某手寫體](https://github.com/max32002/nanifont/raw/master/preview/welcome.png)
 
-何某手寫體，目前版本 ver 1.010，與原作者的差異：
+何某手寫體，目前版本 ver 1.033，與原作者的差異：
 * 從原作者的 2020-11-21 Ver3.10 (RC) 複製出來修改。
 * Max修改前，符號＋文字數：8,784個。
 * Max修改後，符號＋文字數：23,739個。
@@ -45,7 +45,8 @@
 * 食、辶、礻部，部份字修改為台灣常見寫法。
 * 「豬」、「箸」日文漢字中的「者」有多一點，大多應該都被Max刪掉了。
 * 「戶」部件，目前大多沿用日文寫法「戸」，沒有改成台灣用法「戶」。
-* 「龍」部件調整為三條橫線。
+* 「龍」部件，調整為三條橫線。
+* 「囱」部件，調整為台標的「囪」。更新清單：窗聰總蔥傯璁。
 * 修改一些錯字。
 
 
@@ -64,8 +65,8 @@ WebFont可以服用下面的css:
 ```
 @font-face {
   font-family: nanifont;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.030/webfont/NaniFont-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.030/webfont/NaniFont-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.033/webfont/NaniFont-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.033/webfont/NaniFont-Regular.woff) format("woff");
 }
 ```
 附註：Regular換成其他的值，可以調整粗細。
