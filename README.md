@@ -65,8 +65,8 @@ WebFont可以服用下面的css:
 ```
 @font-face {
   font-family: nanifont;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.033/webfont/NaniFont-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.033/webfont/NaniFont-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.034/webfont/NaniFont-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.034/webfont/NaniFont-Regular.woff) format("woff");
 }
 ```
 附註：Regular換成其他的值，可以調整粗細。
