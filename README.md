@@ -47,6 +47,7 @@
 * 「戶」部件，目前大多沿用日文寫法「戸」，沒有改成台灣用法「戶」。
 * 「龍」部件，調整為三條橫線。
 * 「囱」部件，調整為台標的「囪」。更新清單：窗聰總蔥傯璁。
+* 「眾」部件調整清單：潀眾聚鄹驟。
 * 修改原作者的錯字：嘲。
 
 
@@ -65,8 +66,8 @@ WebFont可以服用下面的css:
 ```
 @font-face {
   font-family: nanifont;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.034/webfont/NaniFont-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.034/webfont/NaniFont-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.036/webfont/NaniFont-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/nanifont@1.036/webfont/NaniFont-Regular.woff) format("woff");
 }
 ```
 附註：Regular換成其他的值，可以調整粗細。
